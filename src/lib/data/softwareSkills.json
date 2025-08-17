@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "name": "HTML",
+        "percentage": 80,
+        "level": "Advanced",
+        "img": "src/lib/assets/skills/html.svg",
+        "description": "I'm good at writing HTML. I make sure my code is semantic and accessible."
+    },
+    {
+        "id": "2",
+        "name": "CSS",
+        "percentage": 80,
+        "level": "Advanced",
+        "img": "src/lib/assets/skills/css.svg",
+        "description": "I use CSS to style websites in a clean and consistent way. I often work with layout, animations and responsiveness."
+    },
+    {
+        "id": "3",
+        "name": "Javascript",
+        "percentage": 50,
+        "level": "Intermediate",
+        "img": "src/lib/assets/skills/javascript.svg",
+        "description": "I use JavaScript to make websites interactive. I understand the basics and use it for logic and DOM manipulation."
+    },
+    {
+        "id": "4",
+        "name": "Typescript",
+        "percentage": 10,
+        "level": "Intermediate",
+        "img": "src/lib/assets/skills/typescript.svg",
+        "description": "I'm still learning TypeScript. I used it during my internship and in one school project."
+    },
+    {
+        "id": "5",
+        "name": "D3.js",
+        "percentage": 30,
+        "level": "Basic",
+        "img": "src/lib/assets/skills/d3.svg",
+        "description": "I used D3.js to create data visualizations in a school project. I learned how to bind data to elements and create charts."
+    },
+    {
+        "id": "6",
+        "name": "Node.js",
+        "percentage": 20,
+        "level": "Basic",
+        "img": "src/lib/assets/skills/node.svg",
+        "description": "I used Node.js in school projects to run a simple server. I applied CRUD and loaded data dynamically."
+    },
+    {
+        "id": "7",
+        "name": "Express",
+        "percentage": 20,
+        "level": "Basic",
+        "img": "src/lib/assets/skills/express.svg",
+        "description": "I used Express with Node.js to build simple backend routes. I used it to handle requests and work with dynamic data."
+    },
+    {
+        "id": "8",
+        "name": "EJS",
+        "percentage": 30,
+        "level": "Basic",
+        "img": "src/lib/assets/skills/ejs.svg",
+        "description": "I used EJS to render dynamic HTML in Node.js projects. It helped me show data from the server inside templates."
+    },
+    {
+        "id": "9",
+        "name": "Tailwind",
+        "percentage": 20,
+        "level": "Basic",
+        "img": "src/lib/assets/skills/tailwind.svg",
+        "description": "I use Tailwind to build quick and responsive layouts. I like how fast and flexible it is to work with."
+    },
+    {
+        "id": "10",
+        "name": "Wordpress",
+        "percentage": 20,
+        "level": "Basic",
+        "img": "src/lib/assets/skills/wordpress.svg",
+        "description": "I used WordPress during a short internship project. I know the basics, but there's still a lot to improve."
+    },
+    {
+        "id": "11",
+        "name": "SvelteKit",
+        "percentage": 40,
+        "level": "Basic",
+        "img": "src/lib/assets/skills/svelte.svg",
+        "description": "I'm learning SvelteKit and have done multiple projects with Svelte. I understand the basics and enjoy working with components and routes."
+    },
+    {
+        "id": "12",
+        "name": "Eleventy",
+        "percentage": 50,
+        "level": "Intermediate",
+        "img": "src/lib/assets/skills/eleventy.svg",
+        "description": "I use Eleventy to build fast static websites. I work a lot with templates, collections and data files."
+    },
+    {
+        "id": "13",
+        "name": "Git & GitHub",
+        "percentage": 80,
+        "level": "Intermediate",
+        "img": "src/lib/assets/skills/github.svg",
+        "description": "I use Git to manage my code and work with others. I know how to commit, push, pull and create branches."
+    },
+    {
+        "id": "14",
+        "name": "Figma",
+        "percentage": 80,
+        "level": "Advanced",
+        "img": "src/lib/assets/skills/figma.svg",
+        "description": "I use Figma to design websites and create prototypes. I like how it helps me visualize my ideas."
+    },
+    {
+        "id": "15",
+        "name": "Adobe Cloud",
+        "percentage": 50,
+        "level": "Intermediate",
+        "img": "src/lib/assets/skills/adobe-cloud.svg",
+        "description": "I use Adobe tools like Photoshop and Illustrator for design work. I create graphics and edit images for my projects."
+    }
+]

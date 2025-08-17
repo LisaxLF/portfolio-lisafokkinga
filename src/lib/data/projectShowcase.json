@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "CMD Nexus",
+        "image": "src/lib/assets/projects/CMD_Nexus.png",
+        "description": "A central hub designed to help CMD students navigate their learning journey through clear structure, tools, and personal insights.",
+        "tags": ["User Research", "UI Design", "Frontend"]
+    },
+    {
+        "id": "2",
+        "name": "Weekly Nerd Blog",
+        "image": "src/lib/assets/projects/WN_Blog.png",
+        "description": "Each week, I reflected on inspiring sessions from developers, designers, and creatives in the field. These blogs helped me explore different roles in the industry and think about where I see myself as a maker.",
+        "tags": ["Reflection", "Web Design", "Frontend"]
+    },
+    {
+        "id": "3",
+        "name": "Browser Technology",
+        "image": "src/lib/assets/projects/BT_NS.png",
+        "description": "I designed and build a fully accessible tax form in the visual style of the Dutch Railways (NS). With HTML, CSS, and JavaScript, I focused on usability and progressive enhancement making sure it works well on all kinds of devices and browsers.",
+        "tags": ["Accessibility", "Progressive Enhancement", "Frontend"]
+    },
+        {
+        "id": "1",
+        "name": "CMD Nexus",
+        "image": "src/lib/assets/projects/CMD_Nexus.png",
+        "description": "A central hub designed to help CMD students navigate their learning journey through clear structure, tools, and personal insights.",
+        "tags": ["User Research", "UI Design", "Frontend"]
+    },
+    {
+        "id": "2",
+        "name": "Weekly Nerd Blog",
+        "image": "src/lib/assets/projects/WN_Blog.png",
+        "description": "Each week, I reflected on inspiring sessions from developers, designers, and creatives in the field. These blogs helped me explore different roles in the industry and think about where I see myself as a maker.",
+        "tags": ["Reflection", "Web Design", "Frontend"]
+    },
+    {
+        "id": "3",
+        "name": "Browser Technology",
+        "image": "src/lib/assets/projects/BT_NS.png",
+        "description": "I designed and build a fully accessible tax form in the visual style of the Dutch Railways (NS). With HTML, CSS, and JavaScript, I focused on usability and progressive enhancement making sure it works well on all kinds of devices and browsers.",
+        "tags": ["Accessibility", "Progressive Enhancement", "Frontend"]
+    }
+]
