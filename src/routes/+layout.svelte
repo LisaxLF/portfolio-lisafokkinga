@@ -1,18 +1,15 @@
 <script>
-    import HeaderComponent from '$lib/components/layout/Header.svelte';
-    import FooterComponent from '$lib/components/layout/Footer.svelte';
+	import HeaderComponent from '$lib/components/layout/Header.svelte';
+	import FooterComponent from '$lib/components/layout/Footer.svelte';
 
-    let isVisible = false
+	let isVisible = false;
 
-    function handleFooterVisibility(visible) {
-        isVisible = visible
-
-        console.log(visible);
-        
-    }
+	function handleFooterVisibility(visible) {
+		isVisible = visible;
+	}
 </script>
 
-<HeaderComponent state={isVisible ? 'visible' : 'hidden'} />
+<HeaderComponent state={!isVisible ? 'visible' : 'hidden'} />
 
 <slot />
 

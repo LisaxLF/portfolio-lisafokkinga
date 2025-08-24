@@ -31,6 +31,10 @@
 		cursor: pointer;
 	}
 
+	.icon-button.hidden {
+		opacity: 0;
+	}
+
 	.icon-button:active {
 		transition: 100ms;
 	}
@@ -67,20 +71,32 @@
 		background-color: var(--primary-clr);
 	}
 
-	.icon-button.header:hover :global(.icon-background > svg path) {
+	/* .icon-button.header:hover :global(.icon-background > svg path) {
 		fill: white;
 	}
 
 	.icon-button.secondary:hover :global(svg path) {
 		fill: white;
+	} */
+
+	:global(.icon-button.text svg path) {
+		fill: var(--text-clr);
 	}
 
-	:global(.icon-button svg path) {
-		fill: var(--logo-color);
+	:global(.icon-button.text:hover svg path) {
+		fill: var(--reverse-clr);
+	}
+
+	:global(.icon-button.icon svg path) {
+		fill: var(--text-clr);
+	}
+
+	:global(.icon-button.icon svg:hover path) {
+		fill: var(--primary-clr);
 	}
 
 	:global(.social) {
 		width: 24px;
 		height: 24px;
-	} 
+	}
 </style>
